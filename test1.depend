@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687202550 source:c:\users\windows\onedrive\belgeler\codeblocksprojects\test1\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
